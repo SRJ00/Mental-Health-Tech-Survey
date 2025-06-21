@@ -56,10 +56,4 @@ Full recommendations can be found in the report files (`.docx` and `.pptx`).
 
 ---
 
-## Contact
-
-For questions or further collaboration, please contact:  
-**Saurav** — [Your email or GitHub link here]
-
 ---
-
